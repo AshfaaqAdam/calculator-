@@ -1,0 +1,4 @@
+I am using visual basic coding to create my calculator app.
+This is a basic calculator. Only 2 numbers can be input at a time.I will improve later.
+Dim number1 as integer
+Dim number2 as integer
